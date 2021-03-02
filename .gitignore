@@ -136,3 +136,4 @@ dmypy.json
 *.tsv
 train.txt
 valid.txt
+data/
